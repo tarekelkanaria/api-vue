@@ -15,7 +15,6 @@ Create a page using JSONPlaceholder API with Vue.js framework. with clean, well-
 - Vue Router
 - axios
 - normalize.css
-- Font Awesome
 
 # Vue 3 + Vite
 
