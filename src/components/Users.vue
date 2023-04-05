@@ -74,6 +74,7 @@ export default {
 @media (max-width: 767px) {
   .card {
     width: 100%;
+    min-width: unset;
   }
 }
 .card h2 {

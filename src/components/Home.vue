@@ -30,6 +30,11 @@ export default {
   gap: 2rem;
   border-radius: 0.8rem;
 }
+@media (max-width: 576px) {
+  .container {
+    flex-direction: column;
+  }
+}
 .wrapper {
   width: 90%;
   margin: auto;

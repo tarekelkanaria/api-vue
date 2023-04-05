@@ -70,6 +70,12 @@ export default {
   min-height: 50rem;
   border-radius: 0.8rem;
 }
+@media (max-width: 767px) {
+  .card {
+    max-width: unset;
+    min-height: unset;
+  }
+}
 .card h2 {
   font-size: 2rem;
   color: #eebf63;
