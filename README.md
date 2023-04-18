@@ -2,6 +2,10 @@
 
 Webpage retrieves data From JSONPlaceholder API using Vue.js framework
 
+## Demo Preview
+
+[Link to the page](https://apiplaceholder-vue-elkanaria.netlify.app/)
+
 ## Requirements
 
 Create a page using JSONPlaceholder API with Vue.js framework. with clean, well-structured, and well-commented code that can be easily maintained and scaled.
